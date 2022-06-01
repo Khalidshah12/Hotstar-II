@@ -96,14 +96,20 @@ select:focus {
 #subscribe {
     width: 20%;
     font-size: 12px;
+    height: 35px;
     margin-right: 20px;
     padding: 5px 10px;
     color: white;
-    font-weight: bold;
     background-color: rgb(23, 140, 187);
     cursor: pointer;
     border-radius: 5px;
     border: none;
+}
+
+#subscribe:hover{
+    color: black;
+    background-color: rgb(7, 97, 133);
+    font-weight: bold;
 }
 
 #login {

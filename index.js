@@ -1,7 +1,7 @@
 
 // subscribe button to go on the dummy page
-let goDummy = () => {
-    window.location.href = "./dummy.html"
+let GoTrending = () => {
+    window.location.href = "./trending.html"
 }
 
 // Slideshow Start 
